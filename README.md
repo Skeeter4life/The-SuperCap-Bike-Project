@@ -62,7 +62,9 @@ $$Capacitor_{ESR}: \ \approx \text{15 (mΩ)}$$
 
 $$Sourse_{ESR}: \ \approx 8 * 0.2 = 1.6 \text{ (Ω) (8 1.5V AA alkaline batteries in series)} $$
 
-$$Parasitic_{ESR}: \text{ The resistance of a trace with 1.5mm width, 0.6mm length, } 1 \frac{oz}{ft^2}, \text{ at } 25^{\circ}C \approx 0.194 \text{ (mΩ). IR2104 I/O impedence assumed neglegable.}$$ 
+$$Parasitic_{ESR}: \text{ The resistance of a trace with 1.5mm width, 0.6mm length, } 1 \frac{oz}{ft^2}, \text{ at } 25^{\circ}C \approx 0.194 \text{ (mΩ).}$$
+
+IR2104 I/O impedence assumed neglegable.
 
 $$R_{eq} \approx 1.62 \text{ (Ω)}$$
 
