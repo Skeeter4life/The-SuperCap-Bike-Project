@@ -1,4 +1,4 @@
-# SuperCAP V1 is Complete, and Deprecated in light of V2.
+# SuperCAP V1 is Complete, and Deprecated in Light of V2.
 
 ## The Idea
 
