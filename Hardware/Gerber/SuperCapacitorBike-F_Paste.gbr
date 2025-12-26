@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.3*%
+%TF.CreationDate,2024-11-28T01:10:20-08:00*%
+%TF.ProjectId,SuperCapacitorBike,53757065-7243-4617-9061-6369746f7242,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.3) date 2024-11-28 01:10:20*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10O,4.013200X1.498600*%
+%ADD11O,3.505200X1.498600*%
+%ADD12O,1.498600X3.505200*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J11*%
+X90476250Y-44000000D03*
+D11*
+X90476250Y-38000520D03*
+D12*
+X85777250Y-41000260D03*
+%TD*%
+M02*

@@ -1,0 +1,133 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1096cbe7-ac56-48cb-aadd-3e4addcdbbb7")
+	(paper "A4")
+	(title_block
+		(title "Super Capacitor Bike - Power Circuit")
+		(date "2024-06-29")
+		(rev "1")
+		(company "Andrew Fischer")
+	)
+	(lib_symbols)
+	(sheet
+		(at 147.955 76.2)
+		(size 37.465 26.035)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a3002b5e-253f-453a-a6f1-d0dba20d26d3")
+		(property "Sheetname" "Accumulator"
+			(at 147.955 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Accumulator.kicad_sch"
+			(at 147.955 102.8196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SuperCapacitorBike"
+				(path "/1096cbe7-ac56-48cb-aadd-3e4addcdbbb7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.695 56.515)
+		(size 37.465 26.035)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a964da0d-002d-40d7-a8b6-c48f0e32c7fd")
+		(property "Sheetname" "Motor Controller"
+			(at 99.695 55.8034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Motor_Controller_sch.kicad_sch"
+			(at 99.695 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SuperCapacitorBike"
+				(path "/1096cbe7-ac56-48cb-aadd-3e4addcdbbb7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.695 96.52)
+		(size 37.465 26.035)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e06cfff2-2d74-484b-b515-a72922d1b24f")
+		(property "Sheetname" "Half bridge Circuit"
+			(at 99.695 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Half_Bridge_Circuit_sch.kicad_sch"
+			(at 99.695 123.1396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SuperCapacitorBike"
+				(path "/1096cbe7-ac56-48cb-aadd-3e4addcdbbb7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
